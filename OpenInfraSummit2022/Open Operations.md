@@ -19,7 +19,7 @@ and make them openly available. Documenting best practices, publishing the littl
 tools to do cleanup jobs or the setup of dashboards that can be used for capacity
 management are all important contributions.
 
-Being transparent about bugs, incidents, security reponses may sound disturbing
+Being transparent about bugs, incidents, security responses may sound disturbing
 to traditional Ops teams at first -- yet it is key to build up experience. It also
 helps to create trust with users, especially when incidents do occur.
 
