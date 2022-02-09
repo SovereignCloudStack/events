@@ -29,3 +29,7 @@ cloud offerings. Participants will learn to confidently participate in public
 discussions and how to demystify the frequently misused term digital sovereignty.
 Together, we recap the key principles of the Four Freedoms and learn how they
 create true digital sovereignty for government, industry, research, and society.
+
+## Additional resources
+
+[1] https://en.acatech.de/publication/digital-sovereignty/
