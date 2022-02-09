@@ -23,7 +23,7 @@ Being transparent about bugs, incidents, security reponses may sound disturbing
 to traditional Ops teams at first -- yet it is key to build up experience. It also
 helps to create trust with users, especially when incidents do occur.
 
-This is the core of the Open Operations idea.
+This is the core of the Open Operations concept.
 
 ## Social summary (100 chars)
 
@@ -32,23 +32,18 @@ Source to the Ops part of Open DevOps practices.
 
 ## What should attendees expect to learn? (1000 chars)
 
-Attendees learn 
+Attendees learn about some of the challenges for platform operations teams
+for open platforms and the Open Operations approach that attempts to make
+things simpler by creating more shared knowledge, tools and practices relevant
+to Operations teams.
 
-* Why Open Operatons matters
-* What it means
-* How it works
-* How Operators can be motivated to participate
+Attendees will hear how this extends the Open Source idea from Development
+to Operations, creating an Open DevOps practice.
 
-The SCS project goes beyond existing efforts in a number of ways.
-It networks existing platform DevOps teams to jointly standardize and
-integrate numerous Open Source projects including Open Stack services,
-ID federation capabilities, operational tools, k8s and k8s services
-and in this way create an opinionated best-of-practice full stack
-following the 4 opens of successful OIF projects.
-
-In some way it's an extension of the Open Source idea from development
-to operations -- we thus call it Open Operations.
-
+The presenter will share some experience collected in the Sovereign Cloud Stack
+project how the sharing can be motivated and organized. Attendees will get an
+impression of the early evolution of the Open Operations concepts and hear some
+ideas how this might evolve further.
 
 ## Additional resources
 
