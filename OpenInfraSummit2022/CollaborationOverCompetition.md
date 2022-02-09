@@ -1,20 +1,20 @@
-# Collaboration over Competition - Fostering a community of CSPs
+# Collaboration over Competition - Fostering a community of open operations
 
 ## Abstract (1000 chars)
 
 The Sovereign Cloud Stack (SCS) is built upon the shoulders of giants: With proven technology such
 as OpenStack and Kubernetes the SCS project is building a modular software stack. SCS is much more
-than just another cloud stack - much rather SCS defines standards as part of a community process in
-which CSPs work together on their use-cases while also providing a reference implementation.
+than just another cloud stack - much rather SCS gathers an open community to join forces and define
+common standards - while also providing a reference implementation.
 Following the foundation the SCS builds upon the four opens are part of the core dna of the project - 
-however this is extended by a fifth pillar: Open Operations. The CSPs that engage in the community
-bring in their experiences, expertise and exchange not only solutions but also problems and hurdles
-that are faced in day to day operations of cloud platforms.
+however this is extended by a fifth pillar: Open Operations. 
+The CSPs that engage in the community bring in their experiences, expertise and share their experience
+and learnings on the one hand and exchange on problems and hurdles that are faced in day to day
+operations of cloud platforms on the other hand.
 
 ## Social Summary (100 chars)
 
-Collaboration over Competition - together we're not only stronger but it is also more fun ;)
-
+Collaboration over Competition - the cake is not a lie and it's big enough!
 
 ## What should attendees expect to learn? (1000 chars)
 
