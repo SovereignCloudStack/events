@@ -48,3 +48,4 @@ ideas how this might evolve further.
 ## Additional resources
 
 [1] https://scs.community/
+[2] https://massopen.cloud/connected-initiatives/operate-first/
