@@ -19,8 +19,8 @@ and vital open communities.
 
 ## Social Summary (100 chars)
 
-Let's demystify "sovereignty" and outline why it’s not enough to create
-franchise stacks built on proprietary blocks.
+Let's demystify "sovereignty" and why it’s not enough to create 
+spin-offs from proprietary clouds.
 
 ## What should attendees expect to learn? (1000 chars)
 
