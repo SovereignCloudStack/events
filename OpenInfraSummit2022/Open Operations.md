@@ -27,8 +27,8 @@ This is the core of the Open Operations concept.
 
 ## Social summary (100 chars)
 
-Introducing Open Operations as the logical next step taking Open
-Source to the Ops part of Open DevOps practices.
+Introducing Open Operations as the next step taking Open
+Source to the Ops part of Open DevOps.
 
 ## What should attendees expect to learn? (1000 chars)
 
