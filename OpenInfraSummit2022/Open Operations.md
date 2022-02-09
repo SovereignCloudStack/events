@@ -47,7 +47,13 @@ Source to the Ops part of Open DevOps practices.
 
 ## What should attendees expect to learn? (1000 chars)
 
-Attendees 
+Attendees learn 
+
+* Why Open Operatons matters
+* What it means
+* How it works
+* How Operators can be motivated to participate
+
 
 ## Additional resources
 
