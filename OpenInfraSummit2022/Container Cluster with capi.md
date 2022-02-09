@@ -46,7 +46,8 @@ tedious. Attendees will get an introduction to the helm charts that help
 automating the rotation of machine templates.
 
 The authors will also share some of their experience managing k8s cluster on
-top of the SCS and StackHPC OpenStack platforms.
+top of the SCS and StackHPC OpenStack platforms. The attendees will see an
+advanced example with an HPC cluster using GPUs and RDMA networking.
 
 ## Additional resources
 
