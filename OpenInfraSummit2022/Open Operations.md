@@ -21,15 +21,12 @@ and make it openly available. Documenting best practices, publishing the little
 tools to do cleanup jobs or the setup of dashboards that can be used for capacity
 management are all important contrinutions.
 
-Going even further, Ops teams can support each others by being transparent
-about issues -- bugs, incidents, security responses are all important practices
-that require experience. Sharing it allows such experience to be built up much
-faster and also provide a transparency towards users that give them insight and
-trust into a platform especially when incidents occur.
+Being transparent about bugs, incidents, security reponses may sound disturbing
+to traditional Ops teams -- yet it is a key to build up experience. It also
+helps to create trust with users, especially when incidents do occur.
 
-In some way it's an extension of the Open Source ideas from development
-to operations -- we thus call it Open Operations, combining the skills
-and practices for an Open DevOps approach.
+In some way it's an extension of the Open Source idea from development
+to operations -- we thus call it Open Operations.
 
 ## Social summary (100 chars)
 
