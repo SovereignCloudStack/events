@@ -6,15 +6,13 @@ Authors: Kurt Garloff
 
 ## Abstract (1000 chars)
 
-The Open Infrastructure technologies have become increasingly mature over the
-last years. Nevertheless, the management and operations of platforms at high
-quality continues to require DevOps teams with significant skills. The
-Sovereign Cloud Stack (SCS) project has been created with the goal to
-significantly lower the bar.
+Open Infrastructure technology has become increasingly mature. Nevertheless,
+high quality management and operations of open platforms continues to require
+DevOps teams with significant skills. The Sovereign Cloud Stack project has
+been created with the goal to significantly lower the bar.
 
 While the integration of a standardized operational stack helps the
-platform operations teams, it is only an important first step towards
-the goal.
+platform operations teams, it is only an important first step.
 
 The next step is to create strong communities that share operational practices
 and make them openly available. Documenting best practices, publishing the little
@@ -22,10 +20,10 @@ tools to do cleanup jobs or the setup of dashboards that can be used for capacit
 management are all important contributions.
 
 Being transparent about bugs, incidents, security reponses may sound disturbing
-to traditional Ops teams at first -- yet it is a key to build up experience. It also
+to traditional Ops teams at first -- yet it is key to build up experience. It also
 helps to create trust with users, especially when incidents do occur.
 
-This is the essence of what we call Open Operations.
+This is the core of the Open Operations idea.
 
 ## Social summary (100 chars)
 
