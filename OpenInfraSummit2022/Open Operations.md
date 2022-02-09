@@ -17,16 +17,15 @@ platform operations teams, it is only an important first step towards
 the goal.
 
 The next step is to create strong communities that share operational practices
-and make it openly available. Documenting best practices, publishing the little
+and make them openly available. Documenting best practices, publishing the little
 tools to do cleanup jobs or the setup of dashboards that can be used for capacity
-management are all important contrinutions.
+management are all important contributions.
 
 Being transparent about bugs, incidents, security reponses may sound disturbing
-to traditional Ops teams -- yet it is a key to build up experience. It also
+to traditional Ops teams at first -- yet it is a key to build up experience. It also
 helps to create trust with users, especially when incidents do occur.
 
-In some way it's an extension of the Open Source idea from development
-to operations -- we thus call it Open Operations.
+This is the essence of what we call Open Operations.
 
 ## Social summary (100 chars)
 
@@ -48,6 +47,9 @@ integrate numerous Open Source projects including Open Stack services,
 ID federation capabilities, operational tools, k8s and k8s services
 and in this way create an opinionated best-of-practice full stack
 following the 4 opens of successful OIF projects.
+
+In some way it's an extension of the Open Source idea from development
+to operations -- we thus call it Open Operations.
 
 
 ## Additional resources
