@@ -6,35 +6,26 @@ Authors: Kurt Garloff
 
 ## Abstract (1000 chars)
 
-The Open Source technologies for managing open infrastructure have become
-increasingly mature over the last years. Nevertheless, the management and
-operations of significant platforms at high quality continues to require
-significant skills and the author has observed teams struggling with these
-tasks. The Sovereign Cloud Stack (SCS) project has been created with the goal
-to significantly lower the bar to be successful with Open Source Infrastructure
-operation.
-
-The SCS project goes beyond existing efforts in a number of ways.
-It networks existing platform DevOps teams to jointly standardize and
-integrate numerous Open Source projects including Open Stack services,
-ID federation capabilities, operational tools, k8s and k8s services
-and in this way create an opinionated best-of-practice full stack
-following the 4 opens of successful OIF projects.
+The Open Infrastructure technologies have become increasingly mature over the
+last years. Nevertheless, the management and operations of platforms at high
+quality continues to require DevOps teams with significant skills. The
+Sovereign Cloud Stack (SCS) project has been created with the goal to
+significantly lower the bar.
 
 While the integration of a standardized operational stack helps the
-platform operations teams, it does only cover a few steps on the way
-to make operations easier.
+platform operations teams, it is only an important first step towards
+the goal.
 
-The next step is to create strong communities that share operational
-practices and make it openly available. It makes best practices
-available as well as the little jobs that Ops teams create to do
-cleanup jobs or the setup of dashboards that can be used for
-capacity management. Going a step further, Ops teams can work together
-and be transparent about issues -- bugs, incidents, security response
-are all important practices that require experience. Sharing it allows
-such experience to be built up much faster and also provide a transparency
-towards users that give them insight and trust into the platform operations
-practices.
+The next step is to create strong communities that share operational practices
+and make it openly available. Documenting best practices, publishing the little
+tools to do cleanup jobs or the setup of dashboards that can be used for capacity
+management are all important contrinutions.
+
+Going even further, Ops teams can support each others by being transparent
+about issues -- bugs, incidents, security responses are all important practices
+that require experience. Sharing it allows such experience to be built up much
+faster and also provide a transparency towards users that give them insight and
+trust into a platform especially when incidents occur.
 
 In some way it's an extension of the Open Source ideas from development
 to operations -- we thus call it Open Operations, combining the skills
@@ -53,6 +44,13 @@ Attendees learn
 * What it means
 * How it works
 * How Operators can be motivated to participate
+
+The SCS project goes beyond existing efforts in a number of ways.
+It networks existing platform DevOps teams to jointly standardize and
+integrate numerous Open Source projects including Open Stack services,
+ID federation capabilities, operational tools, k8s and k8s services
+and in this way create an opinionated best-of-practice full stack
+following the 4 opens of successful OIF projects.
 
 
 ## Additional resources
