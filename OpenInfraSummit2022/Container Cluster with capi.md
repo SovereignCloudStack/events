@@ -27,7 +27,7 @@ services into the workload clusters.
 ## Social summary (100 chars)
 
 Using the OpenStack cluster API provider to flexibly create and manage k8s
-clusters on OpenStack platforms.
+clusters on OpenStack.
 
 ## What should attendees expect to learn? (1000 chars)
 
@@ -46,7 +46,8 @@ tedious. Attendees will get an introduction to the helm charts that help
 automating the rotation of machine templates.
 
 The authors will also share some of their experience managing k8s cluster on
-top of the SCS and StackHPC OpenStack platforms.
+top of the SCS and StackHPC OpenStack platforms. The attendees will see an
+advanced example with an HPC cluster using GPUs and RDMA networking.
 
 ## Additional resources
 
