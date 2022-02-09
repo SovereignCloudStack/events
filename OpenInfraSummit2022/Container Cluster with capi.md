@@ -34,7 +34,7 @@ clusters on OpenStack platforms.
 Attendees will get an introduction to the concepts behind k8s cluster API and
 learn how to bootstrap a management node that runs a k8s cluster with cluster
 API and the OpenStack cluster API provider installed. The authors will use the
-terraform automation built in the Sovereign Cloud Stack project which bootraps
+terraform automation built in the Sovereign Cloud Stack project which bootstraps
 a cluster using kind and cover some of the challenges like adjusting MTU or
 passing in credentials for interfacing OpenStack.
 
