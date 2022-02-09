@@ -27,7 +27,7 @@ services into the workload clusters.
 ## Social summary (100 chars)
 
 Using the OpenStack cluster API provider to flexibly create and manage k8s
-clusters on OpenStack platforms.
+clusters on OpenStack.
 
 ## What should attendees expect to learn? (1000 chars)
 
