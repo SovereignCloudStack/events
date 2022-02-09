@@ -4,11 +4,13 @@
 
 The Sovereign Cloud Stack (SCS) is built upon the shoulders of giants: With proven technology such
 as OpenStack and Kubernetes the SCS project is building a modular software stack. SCS is much more
-than just another cloud stack - much rather SCS defines standards as part of a community process in
-which CSPs work together on their use-cases while also providing a reference implementation.
-As part of the project the SIG Monitoring the involved CSPs looked at their needs for observability
-within OpenStack as well as other components and derived monitoring building blocks that
-feature alerting, metrics collection as well as logging.
+than just another cloud stack - much rather SCS gathers an open community to join forces and define
+common standards - while also providing a reference implementation.
+As part of the projects Special Interest Group Monitoring involved CSPs and community members looked
+at their needs for observability within OpenStack as well as other components and derived monitoring
+building blocks that feature alerting, metrics collection as well as logging. The talk will give
+an overview of the outcomes but will also highlight parts of the journey within the SIG and will
+give insights to understand the rationale behind design decisions.
 
 ## Social Summary (100 chars)
 
