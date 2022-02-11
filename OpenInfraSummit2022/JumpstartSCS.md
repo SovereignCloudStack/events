@@ -1,5 +1,11 @@
 # Sovereign Cloud Stack: A springboard to giant's shoulders
 
+Format: Presentation
+Track: Open Development
+Level: Beginner
+Authors: Eduard Itrich, ???
+Tags: #101, #UpstreamDevelopment, #CaseStudy
+
 ## Abstract (1000 chars)
 
 Sovereign Cloud Stack (SCS) is a network of existing and future providers of
@@ -15,7 +21,8 @@ into great Open Source communities.
 
 ## Social Summary (100 chars)
 
-Ever wondered how to climb the shoulders of giant's communities? SCS is your springboard!
+Ever wondered how to climb the shoulders of giants? SCS is your springboard to
+great communities!
 
 ## What should attendees expect to learn? (1000 chars)
 
