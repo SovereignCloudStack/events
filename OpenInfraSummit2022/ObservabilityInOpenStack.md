@@ -1,4 +1,10 @@
-# Observability in OpenStack: - Learnings and Values from the SIG Monitoring at SCS
+# Observability in OpenStack: - Learnings and building blocks from the SIG Monitoring at SCS
+
+Track: Public
+
+Authors: Mathias Fechner, Felix Kronlage-Dammers
+
+Technical Level: Intermediate
 
 ## Abstract (1000 chars)
 
@@ -14,7 +20,7 @@ give insights to understand the rationale behind design decisions.
 
 ## Social Summary (100 chars)
 
-Rolling out monitoring is easy - difficulty arises in what to actually observe and focus on. Let's tackle that!
+Rolling out monitoring is easy - but monitor what matters and not just everything!
 
 ## What should attendees expect to learn? (1000 chars)
 
