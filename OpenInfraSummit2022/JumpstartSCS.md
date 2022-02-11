@@ -1,10 +1,10 @@
 # Sovereign Cloud Stack: A springboard to giant's shoulders
 
-Format: Presentation
-Track: Open Development
-Level: Beginner
-Authors: Eduard Itrich, ???
-Tags: #101, #UpstreamDevelopment, #CaseStudy
+Format: Presentation  
+Track: Open Development  
+Level: Beginner  
+Authors: Eduard Itrich, ???  
+Tags: #101, #UpstreamDevelopment, #CaseStudy  
 
 ## Abstract (1000 chars)
 
