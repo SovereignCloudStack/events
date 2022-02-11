@@ -1,10 +1,10 @@
 # Digital sovereignty: Why open infrastructure matters
 
-Format: Presentation
-Track: Open Development
-Level: Beginner
-Authors: Eduard Itrich
-Tags: #101
+Format: Presentation  
+Track: Open Development  
+Level: Beginner  
+Authors: Eduard Itrich  
+Tags: #101  
 
 ## Abstract (1000 chars)
 
