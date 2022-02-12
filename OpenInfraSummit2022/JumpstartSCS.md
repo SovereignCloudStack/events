@@ -3,7 +3,7 @@
 Format: Presentation  
 Track: Open Development  
 Level: Beginner  
-Authors: Eduard Itrich, ???  
+Authors: Eduard Itrich, Felix Kronlage-Dammers
 Tags: #101, #UpstreamDevelopment, #CaseStudy  
 
 ## Abstract (1000 chars)
