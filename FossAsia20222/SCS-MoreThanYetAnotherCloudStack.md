@@ -13,5 +13,5 @@ The talk will give an overview of the architecture of the Sovereign Cloud Stack.
 Track:        DevOps and Cloud
 Session Type: Talk 25min
 Level:        Intermediate
-State:        Pending
+State:        Accepted
 
