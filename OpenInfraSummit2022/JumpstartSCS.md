@@ -8,21 +8,19 @@ Tags: #101, #UpstreamDevelopment, #CaseStudy
 
 ## Abstract (1000 chars)
 
-Sovereign Cloud Stack (SCS) is a network of existing and future providers of
+Sovereign Cloud Stack (SCS) is a network of existing and future providers of 
 standardized sovereign cloud infrastructure to join forces in defining, implementing
 and operating a fully open, federated, compatible platform. We're integrating and
 standardizing existing and proven Open Source components such as e.g. OpenStack
-and Kubernetes. Our stack is defined in an open development process with open design
-discussions and decisions by an open community. By doing so, our community stands
-like a tender seedling on the shoulders of giants like the OIF, CNCF or Gaia-X
-communities. Collaboration of individuals from various companies has a long tradition
-in technical commitees and organizations. The SCS project takes this into the space
-of cloud computing and is an excellent example of the paradigm collaboration over
-competition.
-
-This talk will give you a look under the hood of Sovereign Cloud Stack on the one
-hand and an insight into our community on the other hand. Learn how we're collaborating
-and especially how we provide our members a springboard into great Open Source communities.
+and Kubernetes. Our stack is defined in an open development process with open
+design discussions and decisions by an open community. By doing so, our community
+stands on the shoulders of giants like the OIF, CNCF or Gaia-X communities.
+Collaboration of individuals from various companies has a long tradition in
+technical commitees and organizations. SCS takes this into the space of cloud
+computing and is an excellent example of the paradigm collaboration over competition.
+This talk will give you a look under the hood of SCS and an insight into our
+community. Learn how we're collaborating and how we provide our members a springboard
+into great Open Source communities.
 
 ## Social Summary (100 chars)
 
