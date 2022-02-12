@@ -37,10 +37,10 @@ Container-as-a-Service while being fully compliant with European data protection
 and security standards. Furthermore attendees will enjoy a guided tour through
 the SCS architecture as well as the community and learn how to foster a healthy
 and engaged community based on the principles of the Four Opens. A special focus
-will be on how to keep up with different upstream  communities and how we offer our
-members a stepping stone to major projects.
-Be prepared to gather insights on how we all become better by collaboration and that
-there is nothing to be afraid of by working together in a competitive industry.
+will be on how to keep up with different upstream communities and how we offer our
+members a stepping stone to major projects. Be prepared to gather insights on how 
+we all become better by collaboration and that there is nothing to be afraid of
+by working together in a competitive industry.
 
 ## Additional resources
 
