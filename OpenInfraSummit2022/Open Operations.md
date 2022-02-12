@@ -2,7 +2,7 @@
 
 Track: Open Development
 
-Authors: Kurt Garloff
+Authors: Kurt Garloff, Felix Kronlage-Dammers
 
 ## Abstract (1000 chars)
 
