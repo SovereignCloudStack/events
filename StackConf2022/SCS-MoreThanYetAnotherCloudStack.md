@@ -19,4 +19,4 @@ source nerd. If not working, he is usually found on a road bike.
 
 Duration: Full
 Level:    Advanced
-State:    Pending
+State:    Declined
