@@ -1,6 +1,12 @@
 # Forum on Loadbalancer-as-a-Service - fostering Octavia and taking LBaaS to a next Level
 
-Forum or BoF?
+Session type: BoF
+Speaker:
+
+Felix Kronlage-Dammers (moderator)
+Kurt Garloff (speaker)
+Christian Berendt (speaker)
+(but as this will be a BoF, this was just for starters ;)
 
 ## Abstract (1000 chars)
 
