@@ -23,5 +23,5 @@ Ausgehend von den Anforderungen an Souveränität erläutert er die getroffenen
 Entscheidungen für Vorgehensweisen, Technologiewahl, Zusammenarbeit. Das
 Projekt hat bereits mehrere Releases der Referenzimplementierung freigegeben
 und auch Partner, die die Standards und die Software produktiv einsetzen. Der
-Sprechen stellt den aktuellen Stand des Projekts und erste Erfahrungen der
+Sprecher stellt den aktuellen Stand des Projekts und erste Erfahrungen der
 Partner vor.
