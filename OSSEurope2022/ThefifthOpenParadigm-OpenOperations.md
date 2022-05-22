@@ -8,7 +8,7 @@ Authors: Felix Kronlage-Dammers
 
 Open Infrastructure technology has grown up. Nevertheless, high
 quality management and operations of open platforms continues to
-requires significant skills. The Sovereign Cloud Stack project has
+require significant skills. The Sovereign Cloud Stack project has
 been created with the goal to significantly lower the bar and with
 the concept of collaboration over competition first results have
 been achieved.
