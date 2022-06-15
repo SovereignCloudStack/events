@@ -1,6 +1,6 @@
 # Digital sovereignty: Why open infrastructure matters
 
-Track: Other Cool Stuff
+Track: The Open Source Way
 Level: Beginner  
 
 ## Abstract (1000 chars)
