@@ -14,14 +14,14 @@ happen in the corresponding upstream project - done through funding and tender p
 just as much as through interested parties at the various cloud service providers that
 utilize the SCS stack. Coordination happens in recurring meetings facilitated by the
 product owners at the SCS project.
-Since the beginning of 2022 the product owner for the IaaS reference implementation
-(which is, obviously OpenStack) and OPS & IAM is part of the project. 
-This talk will highlight how this development process works and will dive into all
-the hurdles and problems one faces in this rather unique way of living the product
-owner life.
+In the course of this talk the Product Owner for the IaaS Reference Implementation of the
+Sovereign Cloud Stack, which is based on OpenStack obviously, will dive into how the
+development process works and will share insights on what went well in the first years
+and where things needed (and still need) improvement and how these hurdles are tackled.
 
 ## Social Summary (100 chars)
 
+Product Owner is not just a job, it is a mission! Taking the PO job to the next level.
 
 ## What should attendees expect to learn? (1000 chars)
 
