@@ -9,7 +9,7 @@ Technical Level: Intermediate
 ## Abstract (1000 chars)
 
 Cloud Repatriation is a term that has been buzzing around the cloud industry since
-the paper by AZ21 and has led to various claims that the age of cloud has its rise.
+the paper by a16z and has led to various claims that the age of cloud has its rise.
 With efforts such as the Sovereign Cloud Stack Project standardiziation of Cloud
 is targeted. Such efforts are a big chance for OpenStack since it allows that
 even in cases of Cloud Repatriation OpenStack will still be the workhorse, just
