@@ -22,6 +22,7 @@ turned out to be hard ;)
 
 ## Social Summary (100 chars)
 
+Sovereign Cloud Stack not only defined standards - but enables CSPs. Let's show how!
 
 ## What should attendees expect to learn? (1000 chars)
 
