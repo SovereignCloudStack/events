@@ -25,5 +25,10 @@ turned out to be hard ;)
 
 ## What should attendees expect to learn? (1000 chars)
 
-
+Aside from sheding some light into the progress of the efforts of the Sovereign
+Cloud Stack, this talk will highlight the various achievements of the project.
+For once in the items that have been contributed to the various upstream projects
+but also in terms of how the SCS project enabled Cloud Service Provider that
+utilitze the reference implementation and / or adopt the standards to deliver
+a better product to their users and customers.
 
