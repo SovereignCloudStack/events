@@ -13,7 +13,7 @@ create the Sovereign Cloud Stack (SCS) with the vision to create one platform â€
 standardized, built and operated by many. The SCS project was initiated
 to create and nurture a set of standards and back this effort by providing
 a reference implementation based on OpenStack. 
-Since then there have been five releases In the spirit of Public Money - Public Code the project utilizes
+Since then there have been five releases in the spirit of Public Money - Public Code the project utilizes
 money from a funding by the german Federal Ministry for Economic Affairs and Climate Action
 to coordinate and fund development in the various upstream projects.
 This talk will give an overview of what has been achieved over the course of the last years,
