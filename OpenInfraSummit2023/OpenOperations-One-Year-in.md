@@ -2,7 +2,7 @@
 
 Authors: Kurt Garloff, Felix Kronlage-Dammers
 
-Track: TBD
+Track: Open Development
 
 Technical Level: Beginners
 
@@ -11,9 +11,10 @@ Technical Level: Beginners
 Open Source has changed the way software is being developed and used over the
 last decades. The Open Infrastructure Community has been successful in evolving
 and defining good practices for the collaborative development with the Four
-Opens. The Open Operations movement is tackling a related problem: How can we
-effectively establish collaboration in operating complex IT technology?
-The authors have presented some ideas in the 2022 Berlin summit.
+Opens. The Open Operations movement is building upon these ideas in order to
+extend them to the scope of effectively establishling collaboration in
+operating complex IT technology. The authors presented the initial idea at the
+2022 Berlin summit. Since then this has further evolved.
 
 An Open Operations Manifesto has been written and is getting traction in the
 community. The Operators in and around the Sovereign Cloud Stack project have
