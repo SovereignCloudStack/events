@@ -9,17 +9,18 @@ Technical Level: Beginner
 ## Abstract (1000 chars)
 
 The Sovereign Cloud Stack (SCS) orchestrates various standardization and development
-efforts in an open and collobaritve fashion. The projects development efforts typically 
-happen in the corresponding upstream project - done through funding and tender projects
+efforts in an open and collaboritve fashion. The projects development efforts typically
+happens in the corresponding upstream project - done through funding and tender projects
 just as much as through interested parties at the various cloud service providers that
 utilize the SCS stack. Coordination happens in recurring meetings facilitated by the
 product owners at the SCS project - embracing the four opens!
 In the course of this talk the Product Owner for the IaaS Reference Implementation of the
-Sovereign Cloud Stack, which is based on OpenStack obviously, will dive into how the
-development process works and will share insights on what went well in the first years
+Sovereign Cloud Stack, which is based on OpenStack obviously, will dive into how this
+development process works. Insights will be shared on what went well in the first years
 and where things needed (and still need) improvement and how these hurdles are tackled.
-Focus will be placed on the facilitation of these, very special, sprint plannings and reviews
-as well as the orchestration of a product with that many stakeholders.
+The focus of this talk will be placed on the facilitation of these, very special,
+sprint plannings and reviews as well as the orchestration of a product with that many
+stakeholders.
 
 ## Social Summary (100 chars)
 
