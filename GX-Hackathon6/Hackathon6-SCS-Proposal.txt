@@ -1,0 +1,38 @@
+#32 Self description generation via infrastructure discoverability features
+
+Type: Hackathon
+Title: Creating self-descriptions using the discoverability platform features.
+Description: While some of the self-description attributes like legal person
+  and company number only exist in small numbers and don't change very often,
+  this is not the case for on-demand infrastructure such as clouds and k8s
+  clusters. Clouds to tend to evolve more quickly, the k8s clusters even are
+  created and scaled on-demand. Still properly self-describing them requires
+  that the creation of these self-descriptions is automated. Fortunately,
+  both OpenStack and Kubernetes support discovering the most relevant
+  attributes.
+  This was worked on in a previous Hackathon, the result is on github[*].
+  The tool creates JSON-LD that is in-line with the then discussed attributed
+  and SD format. It only covers the OpenStack IaaS platform and while
+  listing all services only retrieves details for some of them.
+  During the Hackathon, we want to extend the coverage and most importantly
+  start covering the Kubernetes clusters. We also need to be bring the
+  attributes up-to-date with respect to the currently discussed vocabulary.
+  The vocabulary likely will benefit from being extended; generating proposals
+  to do just that is a wanted side-benefit of the hacking session.
+  [*] https://github.com/SovereignCloudStack/gx-self-description-generator
+  There will be remote participants from at least the SCS community
+  contributing and supporting. https://conf.scs.koeln:8443/GX-Hackathon6
+Relation to goals: We do develop tools for creating Self-Descriptions
+Responsible: Max Wolfs <wolfs@osb-alliance.com> (SCS Project @ OSB Alliance e.V.)
+  Supported (remotely) by SCS community members and WG Srv Char members.
+Goals & Outcomes: Participants understand the (draft) technical attributes to
+  characterize infrastructure services (OpenStack and Kubernetes). They will
+  have tooling to generate self-descriptions by querying the relevant APIs.
+  This will serve as useful input / feed-back again to the service
+  characteristics working group again.
+Expected knowledge: Gaia-X Self-Descriptions, Python, OpenStack API, Kubernetes API
+Requirements: Access to OpenStack clouds and/or k8s Clusters (cluster-API),
+  talk to use (SCS) beforehand if you want to use our envinroments to work
+  against.
+Dev Environment: Computer/VM with python, openstackSDK, python kubernetes-client.
+
