@@ -1,7 +1,7 @@
 # EclipseCon 2023
 
 ## Session Title
-Create sovereign container platforms with SCS ClusterStacks
+Create digital sovereign container platforms with SCS ClusterStacks
 
 ## Speakers
 - Janis Kemper
@@ -32,12 +32,13 @@ N/A
 ## Objectives of the presentation
 Attendees will be enabled to create, update and delete SCS compliant
 standardized Kubernetes clusters on various cloud providers using ClusterAPI
-based ClusterStacks
+based ClusterStacks. Furthermore awareness for the necessity for digital
+sovereign infrastructure is raised.
 
 ## Description
 ### Summary
-See how to create standardized Kubernetes-clusters to provide a sovereign
-container layer using SCS ClusterStacks
+See how to create standardized Kubernetes-clusters to provide a digital
+sovereign container layer using SCS ClusterStacks
 
 ### Detailed overview
 The Sovereign Cloud Stack (SCS) is built upon the shoulders of giants: With
@@ -58,7 +59,7 @@ In our reference implementation of the container layer, we rely on
 ClusterStacks to realize the management of SCS-standardized Kubernetes clusters
 on different cloud providers. In this presentation, the speakers will address
 how the concept of ClusterStacks came about, how they are deployed, and the
-benefits they deliver in the operation of sovereign infrastructure.
+benefits they deliver in the operation of digital sovereign infrastructure.
 
 The audience will then be able to create and manage complex and standardized
 Kubernetes clusters.
